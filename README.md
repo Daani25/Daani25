@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Entusiasta+del+Open+Source;Aprendiz+constante" alt="Typing SVG" />
 </p>
 
+
 ---
 
 
@@ -21,11 +22,15 @@
 </table>
 
 
+---
+
+
 ### 🚀 Mis Tecnologías
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,docker,mysql" />
 </p>
+
 
 ---
 
@@ -43,11 +48,12 @@
 </p>
 
 
+---
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
 
-
-<a href="https://www.tiktok.com/@TU_USUARIO"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" height="40" style="filter: brightness(0) invert(1)"/></a>
-
+<a href="https://www.tiktok.com/@TU_USUARIO"><img src="https://img.shields.io/badge/-white?style=flat-square&logo=tiktok&logoColor=white&color=black" height="40" /></a>
 
