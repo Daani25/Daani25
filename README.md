@@ -66,7 +66,7 @@
 <p align="left">
   <a href="mailto:tu-correo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
   <a href="https://www.tiktok.com/@TU_USUARIO"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" height="40" style="filter: invert(1)"/></a>
-  <a href="TU_WEB_URL"><img src="https://skillicons.dev/icons?i=chrome" height="40" /></a>
+  <a href="TU_WEB_URL"><img src="https://skillicons.dev/icons?i=Google" height="40" /></a>
   <a href="TU_LINK_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="TU_LINK_TWITTER"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
   <a href="TU_LINK_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
