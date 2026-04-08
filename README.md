@@ -55,4 +55,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
 
-<a href="https://www.tiktok.com/@TU_USUARIO"><img src="https://img.shields.io/badge/-TikTok-121212?style=flat-square&logo=tiktok&logoColor=white&color=121212" height="40" /></a>
+<a href="https://www.tiktok.com/@TU_USUARIO"><img src="https://img.shields.io/badge/-white?style=flat-square&logo=tiktok&logoColor=white&color=black" height="100" /></a>
