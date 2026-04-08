@@ -33,7 +33,6 @@
 ### 🤝 Conectemos
 
 
-
 <a href="www.linkedin.com/in/daniel-l-4a9899401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://x.com/_daani25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_.daani25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
@@ -43,7 +42,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
 
-
+<p align="left">
+<a href="mailto:tu-correo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail,linkedin,twitter,instagram,tiktok,chrome" /></a>
+</p>
+<p align="left">
+<a href="mailto:tu-correo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a><a href="TU_LINK_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a><a href="TU_LINK_TWITTER"><img src="https://skillicons.dev/icons?i=twitter" /></a><a href="TU_LINK_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" /></a><a href="https://www.tiktok.com/@TU_USUARIO"><img src="https://skillicons.dev/icons?i=tiktok" /></a><a href="TU_WEB_URL"><img src="https://skillicons.dev/icons?i=chrome" /></a>
+</p>
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="25">](mailto:tu-correo@gmail.com)
 [<img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white" height="25">](TU_WEB_URL)
 [<img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" height="25">](https://www.tiktok.com/@TU_USUARIO)
