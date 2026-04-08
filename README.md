@@ -48,3 +48,6 @@
 </p>
 
 
+<a href="https://www.tiktok.com/@TU_USUARIO"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" height="40" style="filter: brightness(0) invert(1)"/></a>
+
+
