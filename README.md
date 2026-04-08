@@ -33,9 +33,7 @@
 ### 🤝 Conectemos
 
 <a href="[TU_WEB_URL]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Website" height="30" width="40" /></a>
-<a href="mailto:daniellorenzopatino@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
-</a>
+<a href="mailto:daniellorenzopatino@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" /> </a>
 <a href="https://www.tiktok.com/@_.Daani25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="30" width="40" /></a>
 <p align="left">
 <a href="www.linkedin.com/in/daniel-l-4a9899401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
