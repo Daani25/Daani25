@@ -42,8 +42,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
 
-
+------------------------------------------
 
 
 <a href="mailto:tu-correo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a><a href="TU_LINK_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a><a href="TU_LINK_TWITTER"><img src="https://skillicons.dev/icons?i=twitter" /></a><a href="TU_LINK_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" /></a><a href="https://www.tiktok.com/@TU_USUARIO"><img src="https://skillicons.dev/icons?i=tiktok" /></a><a href="TU_WEB_URL"><img src="https://skillicons.dev/icons?i=chrome" /></a>
+</p>
+
+---------------------------------------
+
+### 🤝 Conectemos
+
+<p align="left">
+<a href="mailto:tu-correo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a><a href="https://www.tiktok.com/@TU_USUARIO"><img src="https://skillicons.dev/icons?i=tiktok" /></a><a href="TU_WEB_URL"><img src="https://skillicons.dev/icons?i=html" /></a><a href="TU_LINK_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a><a href="TU_LINK_TWITTER"><img src="https://skillicons.dev/icons?i=twitter" /></a><a href="TU_LINK_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
