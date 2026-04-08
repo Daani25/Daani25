@@ -39,12 +39,12 @@
 
 
 <p align="left">
-  <a href="mailto:tu-correo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-  <a href="https://www.tiktok.com/@TU_USUARIO"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" height="40"/></a>
+  <a href="mailto:daniellorenzopatino@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://www.tiktok.com/@T_daani25"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" height="40"/></a>
   <a href="TU_WEB_URL"><img src="https://skillicons.dev/icons?i=html" height="40" /></a>
-  <a href="TU_LINK_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="TU_LINK_TWITTER"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
-  <a href="TU_LINK_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+  <a href="www.linkedin.com/in/daniel-l-4a9899401"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://x.com/_daani25"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
+  <a href="https://www.instagram.com/_.daani25"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
 </p>
 
 
@@ -55,4 +55,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
 
-<a href="https://www.tiktok.com/@TU_USUARIO"><img src="https://img.shields.io/badge/-white?style=flat-square&logo=tiktok&logoColor=white&color=black" height="1000" /></a>
