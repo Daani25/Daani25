@@ -48,27 +48,25 @@
 ### 🤝 Conectemos
 
 <p align="left">
-  <a href="mailto:tu-correo@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" height="35" width="auto"/>
-  </a>
-  <a href="TU_URL_WEB" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg" alt="Website" height="35" width="auto"/>
-  </a>
-  <a href="https://www.tiktok.com/@TU_USUARIO" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" alt="TikTok" height="35" width="auto"/>
-  </a>
-  <a href="TU_LINK_LINKEDIN" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="35" width="auto"/>
-  </a>
-  <a href="TU_LINK_TWITTER" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" alt="Twitter" height="35" width="auto"/>
-  </a>
-  <a href="TU_LINK_INSTAGRAM" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" height="35" width="auto"/>
-  </a>
+<a href="mailto:tu-correo@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
+</a>
+<a href="TU_URL_WEB" target="_blank">
+  <img src="https://skillicons.dev/icons?i=chrome" alt="Website" height="40" />
+</a>
+<a href="https://www.tiktok.com/@TU_USUARIO" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tiktok" alt="TikTok" height="40" />
+</a>
+<a href="TU_LINK_LINKEDIN" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+</a>
+<a href="TU_LINK_TWITTER" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" />
+</a>
+<a href="TU_LINK_INSTAGRAM" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
+</a>
 </p>
-
-
 
 
 
