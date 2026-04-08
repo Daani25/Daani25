@@ -26,14 +26,6 @@ Soy un apasionado de la tecnología basado en **[Tu Ciudad/País]**. Me encanta 
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_AQUÍ]&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ### 🤝 Conectemos
 
