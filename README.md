@@ -33,10 +33,10 @@
 ### 🤝 Conectemos
 
 
-<a href="www.linkedin.com/in/daniel-l-4a9899401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://x.com/_daani25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_.daani25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<p align="left">
+<a href="mailto:tu-correo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a><a href="https://www.tiktok.com/@TU_USUARIO"><img src="https://skillicons.dev/icons?i=tiktok" /></a><a href="TU_WEB_URL"><img src="https://skillicons.dev/icons?i=html" /></a><a href="TU_LINK_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a><a href="TU_LINK_TWITTER"><img src="https://skillicons.dev/icons?i=twitter" /></a><a href="TU_LINK_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
@@ -45,13 +45,15 @@
 ------------------------------------------
 
 
-<a href="mailto:tu-correo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a><a href="TU_LINK_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a><a href="TU_LINK_TWITTER"><img src="https://skillicons.dev/icons?i=twitter" /></a><a href="TU_LINK_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" /></a><a href="https://www.tiktok.com/@TU_USUARIO"><img src="https://skillicons.dev/icons?i=tiktok" /></a><a href="TU_WEB_URL"><img src="https://skillicons.dev/icons?i=chrome" /></a>
-</p>
 
 ---------------------------------------
 
-### 🤝 Conectemos
 
 <p align="left">
-<a href="mailto:tu-correo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a><a href="https://www.tiktok.com/@TU_USUARIO"><img src="https://skillicons.dev/icons?i=tiktok" /></a><a href="TU_WEB_URL"><img src="https://skillicons.dev/icons?i=html" /></a><a href="TU_LINK_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a><a href="TU_LINK_TWITTER"><img src="https://skillicons.dev/icons?i=twitter" /></a><a href="TU_LINK_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="mailto:tu-correo@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" /></a>
+  <a href="https://www.tiktok.com/@TU_USUARIO" target="_blank"><img src="https://skillicons.dev/icons?i=tiktok" alt="TikTok" height="40" /></a>
+  <a href="TU_WEB_URL" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="Website" height="40" /></a>
+  <a href="TU_LINK_LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
+  <a href="TU_LINK_TWITTER" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" /></a>
+  <a href="TU_LINK_INSTAGRAM" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" /></a>
 </p>
