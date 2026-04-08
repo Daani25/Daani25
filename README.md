@@ -8,24 +8,18 @@
 
 ---
 
-### ⚡ Un poco sobre mí...
 
-Hola, me llamo Daniel. Soy estudiante de informática y apasionado hacia ella. Me gustan las redes y la programación.
 <table border="0">
   <tr>
     <td width="300" valign="top">
-      <img src="https://raw.githubusercontent.com/creative-scripts/git-images/main/dev-illustration.svg" alt="Ilustración Desarrollador" width="280"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlhNDYwNzA0ODlhYWMzOGQ4NjViNWUyYTQwYWZlZTlmN2ViZThkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer Illustration" width="100%"/>
     </td>
     <td valign="top">
-      <p>🚀 **Full Stack Developer** apasionado por construir soluciones digitales escalables y centradas en el usuario, equilibrando código limpio con gran UX.</p>
-      <p>🧠 Me encanta descifrar desafíos lógicos y **aprender constantemente**, explorando nuevas tecnologías desde el frontend (React, Vue) hasta el backend (Node.js, Python).</p>
-      <p>🤝 Fiel creyente en el poder de la comunidad y la colaboración **Open Source**, contribuyendo siempre que tengo oportunidad.</p>
-      <p>🌍 Mi objetivo es crear un impacto positivo a través del software.</p>
-      <p>☕ Cuando no estoy codeando, me encontrarás buscando nuevas recetas de café o explorando al aire libre.</p>
+      <p>🚀 Hola, me llamo Daniel. Soy estudiante de informática y apasionado hacia ella. Me gustan las redes y la programación.</p>
     </td>
   </tr>
-</table
----
+</table>
+
 
 ### 🚀 Mis Tecnologías
 
