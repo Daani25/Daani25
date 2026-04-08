@@ -1,16 +1,48 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre] 👋
 
-<!--
-**Daani25/Daani25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Entusiasta+del+Open+Source;Aprendiz+constante" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Un poco sobre mí...
+
+Soy un apasionado de la tecnología basado en **[Tu Ciudad/País]**. Me encanta resolver problemas a través del código y crear experiencias digitales increíbles.
+
+* 🔭 Actualmente estoy trabajando en **[Nombre de tu proyecto actual]**.
+* 🌱 Estoy aprendiendo **[Tecnología que estés estudiando]**.
+* 💬 Pregúntame sobre **[Tus temas de interés]**.
+* 📫 Cómo contactarme: **[Tu Email o LinkedIn]**.
+* ⚡ Dato curioso: **[Algo divertido sobre ti, ej: "Hago el mejor café de la oficina"]**.
+
+---
+
+### 🚀 Mis Tecnologías
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,docker,mysql" />
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_AQUÍ]&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 🤝 Conectemos
+
+<p align="left">
+<a href="[LINK_LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="[LINK_TWITTER]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="[LINK_INSTAGRAM]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
