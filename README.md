@@ -48,8 +48,3 @@
 <p align="left">
 <a href="mailto:tu-correo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a><a href="TU_LINK_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a><a href="TU_LINK_TWITTER"><img src="https://skillicons.dev/icons?i=twitter" /></a><a href="TU_LINK_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" /></a><a href="https://www.tiktok.com/@TU_USUARIO"><img src="https://skillicons.dev/icons?i=tiktok" /></a><a href="TU_WEB_URL"><img src="https://skillicons.dev/icons?i=chrome" /></a>
 </p>
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="25">](mailto:tu-correo@gmail.com)
-[<img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white" height="25">](TU_WEB_URL)
-[<img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" height="25">](https://www.tiktok.com/@TU_USUARIO)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25">](TU_LINK_LINKEDIN)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height="25">](TU_LINK_TWITTER)
