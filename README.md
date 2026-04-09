@@ -40,7 +40,7 @@
 
 <p align="left">
   <a href="mailto:daniellorenzopatino@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-  <a href="https://www.tiktok.com/@T_daani25"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" height="40"/></a>
+  <a href="https://www.tiktok.com/@_.daani25"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" height="40"/></a>
   <a href="TU_WEB_URL"><img src="https://skillicons.dev/icons?i=html" height="40" /></a>
   <a href="www.linkedin.com/in/daniel-l-4a9899401"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="https://x.com/_daani25"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
